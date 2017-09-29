@@ -1,9 +1,10 @@
 1. Requirements
 I-AV optimized for windows 64-bit.
 
+I-AV needs python open source androguard
+https://github.com/vivainio/androguard
+
 I-AV needs python modules
-
-
 1)Windows
 	________________________________________________________________
 	pip install python python-pyperclip ipython python-pydot pyfuzzy

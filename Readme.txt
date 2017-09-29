@@ -45,3 +45,11 @@ Shows File Path
 
 <Detecting Result>
 Shows the type of malware detected by Yara
+
+3. demonstration
+1) Simple Anlaysis
+https://youtu.be/KtLROiqwhxc
+
+2) Close Anlaysis
+https://youtu.be/QDZ-7RzHKqk
+
